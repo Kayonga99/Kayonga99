@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Kayonga99/Kayonga99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ... JavaScript
+- 👯 I’m looking to collaborate on ...small projects
+- 💬 Ask me about ...HTML,CSS,JavaScript,React
+- 📫 How to reach me: [Twiter](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)...
+- ⚡ Fun fact: ... I Love playing chess when am bored!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Frameworks. 🚧 
+
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
+
+
+### GitHub Status.  
+
+[![Kayonga99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayonga99&show_icons=true&theme=dracula)](https://github.com/Kayonga99/github-readme-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayonga99&theme=radical" alt="tedlivist" /></p>
