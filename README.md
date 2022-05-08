@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋 I'm Kayonga a Software Developer.
 
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ...small projects
