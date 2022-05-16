@@ -1,9 +1,9 @@
 ### Hi there, 👋 I'm Kayonga a Software Developer.
 
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... Software Development
 - 👯 I’m looking to collaborate on ...small projects
 - 💬 Ask me about ...HTML,CSS,JavaScript,React
-- 📫 How to reach me: [Twiter](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)...
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kayonga-chiteta-776949227/) [twitter](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
 - ⚡ Fun fact: ... I Love playing chess when am bored!
 
 ### Languages & Frameworks. 🚧 
