@@ -17,7 +17,7 @@
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
 ![Angular](https://icongr.am/devicon/angularjs-original.svg?size=54&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=54&color=currentColor)
-![Bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=54&color=currentColor)
+![Bootstrap](https://icongr.am/devicon/vuejs-original-wordmark.svg?size=50&color=currentColor)
 
 
 ### GitHub Status.  
