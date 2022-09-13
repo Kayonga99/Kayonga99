@@ -1,6 +1,6 @@
 ### Hi there, 👋 I'm Kayonga a Software Developer.
 
-- 🌱 I’m currently learning ... Redux
+- 🌱 I’m currently advancing my coding skills
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about ...HTML,CSS,JavaScript,React...
 - 📫 How to reach me: 
