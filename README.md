@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about ...HTML,CSS,JavaScript,React...
 - 📫 How to reach me: 
-  - [linkedin](https://www.linkedin.com/in/kayonga-chiteta-776949227/)
+  - [linkedin](https://www.linkedin.com/in/kayongac/)
   - [twitter](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
 - ⚡ Fun fact: ... I Love playing chess when am bored!
 
@@ -15,7 +15,6 @@
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
-![Angular](https://icongr.am/devicon/angularjs-original.svg?size=54&color=currentColor)
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=54&color=currentColor)
 ![Bootstrap](https://icongr.am/devicon/vuejs-original-wordmark.svg?size=50&color=currentColor)
 
