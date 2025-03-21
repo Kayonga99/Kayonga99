@@ -1,12 +1,12 @@
 ### Hi there, 👋 I'm Kayonga a Software Developer.
 
 - 🌱 I’m currently learning how to code with C#...
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about ...HTML,CSS,JavaScript,React...
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about ...HTML, CSS, JavaScript, React...
 - 📫 How to reach me: 
   - [linkedin](https://www.linkedin.com/in/kayongac/)
   - [twitter](https://twitter.com/KayongaChiteta3?t=gfILCjmltzGRZOx6FZ8-nQ&s=08)
-- ⚡ Fun fact: ... I Love playing chess when am bored!
+- ⚡ Fun fact: ... I Love playing chess when bored!
 
 ### Languages & Frameworks. 🚧 
 
